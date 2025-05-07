@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "3HjMqtVQNc92brP3JCbbK1YEmpxpaBNhgi9gYzVZCtkv",
+  "symbol": "HARKS",
+  "name": "Soul Shark",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/SolanaSoulShift/token-list/main/assets/harks_logo.png",
+  "extensions": {
+    "website": "https://solanasoulshift.io/",
+    "twitter": "https://twitter.com/Solanasoulshift",
+    "description": "HARKS is the native token of the Solana Soul Shift ecosystem, featuring the SoulShark, staking rewards, and community-powered meme culture."
+  }
+}
